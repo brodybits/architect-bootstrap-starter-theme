@@ -12,7 +12,7 @@ This starter is automatically deployed on Vercel: <https://architect-bootstrap-s
 
 If you'd like to use [`jasonlong/architect-theme`](https://github.com/jasonlong/architect-theme) with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-architect-theme
 
-See also: [`pages-themes/architect`](https://github.com/pages-themes/architect), with CC0 license (public domain)
+See also: [`pages-themes/architect`](https://github.com/pages-themes/architect) - with CC0 license (public domain)
 
 ## License
 
