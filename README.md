@@ -2,9 +2,11 @@
 
 Based on [`jasonlong/architect-theme`](https://github.com/jasonlong/architect-theme), similar to [`pages-themes/architect`](https://github.com/pages-themes/architect), with quick adaptations to use [Bootstrap with navbar-fixed](https://getbootstrap.com/docs/4.3/examples/navbar-fixed/), improve printing style, and other minor updates by @brodybits (Christopher J. Brody aka Chris Brody).
 
-## Sample website
+## Sample website deployment
 
-[Here is a sample website](https://raw.githack.com/brodybits/architect-bootstrap-starter-theme/dev/index.html) on [raw.githack.com](https://raw.githack.com/). Please note that the link is a [development URL that is not meant for production](https://raw.githack.com/#development-in-production).
+This starter is automatically deployed on Vercel: <https://architect-bootstrap-starter-theme.vercel.app/>
+
+[Here is another sample deployment](https://raw.githack.com/brodybits/architect-bootstrap-starter-theme/dev/index.html) on [raw.githack.com](https://raw.githack.com/). Please note that the link is a [development URL that is not meant for production](https://raw.githack.com/#development-in-production).
 
 ## Using with Jekyll
 
